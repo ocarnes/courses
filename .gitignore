@@ -3,6 +3,7 @@ _site/
 .jekyll-metadata
 .ipynb_checkpoints/
 data/
+kaggle_data/
 *.pyc
 *.h5
 ai_aliases.sh
